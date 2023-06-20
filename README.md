@@ -14,7 +14,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
-![](image/employee-sql_ERD.png)
+![](image/employee-sql_ERD_new.png)
 
 
 ## Data Engineering

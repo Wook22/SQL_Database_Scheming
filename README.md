@@ -1,4 +1,4 @@
-# SQL 
+# SQL_Database_Scheming
 
 ## Background
 
